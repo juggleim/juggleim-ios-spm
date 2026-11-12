@@ -1,7 +1,7 @@
 # JuggleIM iOS SDK (Swift Package)
 
 This repository distributes the prebuilt JuggleIM iOS SDK through Swift Package Manager.
-SDK source code and issues live in [im-ios-sdk](https://github.com/Juggleim/im-ios-sdk).
+SDK source code and issues live in [imsdk-ios](https://github.com/juggleim/imsdk-ios).
 
 ## Installation
 
@@ -40,7 +40,7 @@ import JuggleIM
 
 ## Call plugins
 
-The Zego, Agora and LiveKit call plugins are currently distributed through CocoaPods only.
+Call plugins are separate packages: [jzegocall-ios-spm](https://github.com/Juggleim/jzegocall-ios-spm) (Zego), [jagoracall-ios-spm](https://github.com/Juggleim/jagoracall-ios-spm) (Agora) and [jlivekitcall-ios-spm](https://github.com/Juggleim/jlivekitcall-ios-spm) (LiveKit). Use the same version as JuggleIM.
 
 ## License
 

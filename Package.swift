@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "JuggleIM",
-            url: "https://downloads.juggle.im/libs/ios/JuggleIM_v1_9_2.zip",
-            checksum: "f3e85c2b976bb84fc73f4349e4fe4799ec37918b2231e34584910534c5924ec7"
+            url: "https://downloads.juggle.im/libs/ios/JuggleIM_v1_10_0.zip",
+            checksum: "331e662a62bb239bbcac0deab67f6936b5c3a79e6da276b90e5fcf2c3f0b441b"
         )
     ]
 )
